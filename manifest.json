@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "toTaiwanese",
+    "version": "1.0",
+    "description": "Transfer Chinese way of saying a word into Taiwanese way",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "browser_action": {
+        "default_icon": "./images/taiwan.png"
+    }
+}
