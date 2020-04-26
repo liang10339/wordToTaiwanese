@@ -1,2 +1,5 @@
 # wordToTaiwanese
-Transfer Chinese way of saying a word into Taiwanese way
+將中國辭彙翻譯成臺灣辭彙
+
+# 使用
+先使用任意工具將簡體中文翻譯成繁體中文，完成後即可使用本套件
