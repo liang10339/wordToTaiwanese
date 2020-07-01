@@ -1,4 +1,4 @@
-# wordToTaiwanese
+# wordToTaiwanese 中文
 將中國常見用語翻譯成臺灣常見用語
 
 # 使用 
@@ -8,7 +8,7 @@
 4. 使用任意工具將簡體中文翻譯成繁體中文
 5. 點擊套件圖示即可看見翻譯後的辭彙
 
-# wordToTaiwanese
+# wordToTaiwanese English
 Translate common Chinese words to common Taiwanese words
 
 # How to use
